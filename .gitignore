@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+*.json
+service_account*.json
+gcp_key*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Airflow
+airflow/logs/
+airflow/plugins/
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/.user.yml
+
+# Data files (raw Excel and Parquet stay in GCS, not the repo)
+*.xlsx
+*.parquet
