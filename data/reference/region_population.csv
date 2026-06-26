@@ -1,0 +1,18 @@
+region_code,region_name,island_group,population_2020,population_2024
+NCR,National Capital Region,Luzon,13484462,14001751
+CAR,Cordillera Administrative Region,Luzon,1797660,1808985
+R1,Ilocos Region,Luzon,5301139,5342453
+R2,Cagayan Valley,Luzon,3685744,3777608
+R3,Central Luzon,Luzon,12422172,12989074
+R4A,CALABARZON,Luzon,16195042,16933234
+R4B,MIMAROPA,Luzon,3228558,3245446
+R5,Bicol Region,Luzon,6082165,6064426
+R6,Western Visayas,Visayas,7954723,4861911
+R7,Central Visayas,Visayas,8081988,6640875
+R8,Eastern Visayas,Visayas,4547150,4625929
+R9,Zamboanga Peninsula,Mindanao,3875576,3943837
+R10,Northern Mindanao,Mindanao,5022768,5178326
+R11,Davao Region,Mindanao,5243536,5389422
+R12,SOCCSKSARGEN,Mindanao,4360974,4462776
+R13,Caraga,Mindanao,2804788,2865196
+BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Mindanao,4944800,5691583
